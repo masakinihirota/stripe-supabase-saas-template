@@ -43,3 +43,10 @@ next-env.d.ts
 .vercel
 
 *storybook.log
+
+# 設計書
+/_design
+
+# 指示書
+/.github
+/.github/prompts
