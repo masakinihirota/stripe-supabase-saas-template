@@ -49,4 +49,5 @@ next-env.d.ts
 
 # 指示書
 /.github
-/.github/prompts
+/_memory-bank
+/_task-list
