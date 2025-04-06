@@ -44,10 +44,3 @@ next-env.d.ts
 
 *storybook.log
 
-# 設計書
-/_design
-
-# 指示書
-/.github
-/_memory-bank
-/_task-list
